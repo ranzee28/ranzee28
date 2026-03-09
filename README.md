@@ -1,4 +1,4 @@
-![Banner](image.png)
+![Banner](https://media.licdn.com/dms/image/v2/D5616AQF6fY9A8wHZzg/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1670915685678?e=1774483200&v=beta&t=6knvjy-zM60X562FPnxwkkO91PfRFPGHb6Xd0hXwc9w)
 ## Hi there, Im Ranzee 👋
 
 IT Student | UI & Visual Designer
