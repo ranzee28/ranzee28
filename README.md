@@ -1,16 +1,14 @@
-## Hi there 👋
+![Banner](image.png)
+## Hi there, Im Ranzee 👋
 
-<!--
-**ranzee28/ranzee28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+IT Student | UI & Visual Designer
 
-Here are some ideas to get you started:
+## About Me
+- Passionate about technology, creativity, and design experiences
+- Right now, I am expanding my knowledge into UI/UX, programming, and emerging technologies such as AI, Web3, blockchain, cryptocurrency and creative technology are shaping the future of the internet.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools
+Java | SQL | Python | HTML | CSS | Figma | Photoshop | Canva | Affinity | Procreate | Autodesk Maya
+
+## Connect with me
+- LinkedIn: https://www.linkedin.com/in/ahmadrozinr17/
